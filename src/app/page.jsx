@@ -4,11 +4,11 @@ import styles from "./home.module.css";
 const HomePage = () => {
   return <div className = {styles.container}> 
     <div className ={styles.textcontainer}>
-      <h1 className = {styles.Header1}>Hello! <br />My name is Tony Sader and this is my portfolio!<br/></h1>
+      <h1 className = {styles.Header1}>Hello, <br />my name is Tony Sader and this is my portfolio!<br/></h1>
       <br />
       <br />
       <p className = {styles.Header2}>
-        I am a Mechatronics Engineering graduate based in Burlington, Ontario. <br/>
+        I am a Mechatronics Engineering graduate (B.Eng) based in Burlington, Ontario. <br/>
         <br />
         I haved 7+ years of systems design experience and 4+ years of people management experience.
         My goal in life is to never stop learning! I absolutely love all things tech, art and creating!
